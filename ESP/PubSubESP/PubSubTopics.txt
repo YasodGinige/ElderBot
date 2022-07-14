@@ -1,0 +1,9 @@
+  |     Topic     |    Server    |    Device    |
+  +===============+==============+==============+
+1 |DeviceState    |      Sub     |      Pub     |
+2 |DataBin        |      Sub     |      Pub     |
+3 |UserReg        |      Sub     |      Pub     |
+4 |Emergency      |      Sub     |      Pub     |
+5 |UserRegResp    |      Pub     |      Sub     |
+6 |Medication     |      Pub     |      Sub     |
+7 |Warning/Alarm  |      Pub     |      Sub     |
