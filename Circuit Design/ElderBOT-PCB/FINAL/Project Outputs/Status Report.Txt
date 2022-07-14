@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB.PrjPcb]
+   Generated File[ElderBot.TXT]
+   Generated File[ElderBot.LDP]
+   Generated File[ElderBot.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 03:21:10 On 3/2/2022
