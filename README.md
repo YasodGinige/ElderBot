@@ -6,5 +6,5 @@ In recent years, the risk of falling, especially among the aging population, has
 Project video: https://drive.google.com/file/d/1kUZlkXkYoyiRHa6RiEkOUjJ5zr7rKidT/view
 
 Awards won: IEEE IES Best Student Branch Chapter Competiton - second best project
-          : IEEE IHTC video competition award - Region 10 - 2nd place
+            IEEE IHTC video competition award - Region 10 - 2nd place
 
